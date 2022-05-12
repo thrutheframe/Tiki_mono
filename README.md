@@ -26,7 +26,7 @@ Hotend that has been designed for:
 - Mellow NF-Smart 
 - MicroSwiss All Metal and clones
 
-##Information
+## Information
 - This carriage/fanduct system uses M3 screws and M3 (4.6D3L) brass inserts. I will NOT be designing M3 self-tapping version. 
 - You can reuse the 4010 coaxial fan.
 - A 5015 radial fan is required to replace the stock 4010 radial fan. 
