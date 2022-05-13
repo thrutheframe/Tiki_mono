@@ -92,4 +92,4 @@ STL files and documentations are free for you to download on this github page. T
 
 I will try to answer or help when I have the time and energy. This is because I am running other design projects concurrently. There are many fanduct systems out there, and all have it advantages and disadvantages. I try my best to improve Tiki system, and constructive suggestions are greatly appreceiated. But I do not like being patronized nor talk down to.
 
-Credits... this is a tricky subject. While I believe it is important to give credits where its due. I do not want a situation the like of Elon crediting the Benz for inventing the first autowagen. 
+Credits... this is a tricky subject. While I believe it is important to give credits where its due. I do not want a situation the likes of Elon's Tesla crediting Benz for inventing the first autowagen. 
