@@ -38,8 +38,11 @@ Hotend that has been designed for:
 - There are 2 versions of the body. One has the vertical holes in teardrop shape to improve circular print and lesser overhangs.
 - There are 2 versions of the cover. The version with 0.2mm offset is smaller in size. If you are not sure which will fit, print both the covers. 
 - Supports for the body and fanduct are intergrated into the design. The tip of the fanduct is under 60 degree overhang.
+- Ptfe tube should be sticking out of the bracket about 11-11.5mm. see image
+![ptfe length](https://user-images.githubusercontent.com/68491566/168224837-6d2557ab-7064-44c7-90d7-c7f9cd38209f.png)
+
 - Print orientations:
-- ![print orientation](https://user-images.githubusercontent.com/68491566/168096877-1b820ded-eabb-458e-b13a-3184a3ffc2a9.png)
+![print orientation](https://user-images.githubusercontent.com/68491566/168096877-1b820ded-eabb-458e-b13a-3184a3ffc2a9.png)
 
 ## Screw BOM
 - m2x4mm 2pcs : securing the adxl345 to body.
