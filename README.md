@@ -12,7 +12,7 @@ The original goal of the designing the Tiki was to have a better fanduct system 
 Following the path of Tiki3, Tiki Monocoque is designed to support the Orbiter V1.5. If you like using the design and want to spport my work, a contribution to https://www.paypal.com/paypalme/shannonheng will be greatly apperciated. If you want to use the design for commerical/academical intend, do contact me for permission or collaborations. 
 
 ## Description
-Tiki Monocoque as its namesake is a one piece printed body construction with the fanduct, BL Touch, Orbiter and ADXL345 mounted to it. This approach in design improves rigidity and dimension accuracy. The fanduct is redesigned with input from previous designs. All parts are design with intergrated supports. The fanduct is designed with overhangs of under 60 degree to the horizon. Tiki Monocoque will only work with the parts it is design with. It is lighter that its predecessor, use less material/screws and less parts to print. Please read the instructions below. 
+Tiki Monocoque as its namesake is a one piece printed body construction with the fanduct, BL Touch, Orbiter and ADXL345 mounted to it. This approach in design improves rigidity and dimension accuracy. The fanduct is re-wored with input from previous designs. All parts are design with intergrated supports. The fanduct is designed with overhangs of under 60 degree to the horizon. Tiki Monocoque will only work with the parts it is design with. It is lighter that its predecessor, use less material/screws and less parts to print. Please read the instructions below. 
 
 Tiki Monocoque is designed for Creality Ender and CR machines, namely
 - Ender 3/3pro/3V2
@@ -23,6 +23,7 @@ Tiki Monocoque is designed for Creality Ender and CR machines, namely
 Hotend that has been designed for:
 - Creality stock CR10 hotend (tested)
 - Mellow NF-Zone CR10 (tested)
+- Mellow NF Zone CR10 (tested)
 - Mellow NF-Smart 
 - MicroSwiss All Metal and clones
 
@@ -77,13 +78,13 @@ A: STEP files for the body and bracket will be release in the later date. STEP f
 
 Q: Did you test print it in PLA? How did you get even get such specific numbers? "...I find stuff like this very misleading with serious potential to cause damage to printers when people try to do it..." 
 
-A: I try my best to answer questions pertaining to the design. Constructive suggestions and contributions to the design are greatly apperciated. Be polite and have manners in your questions. Patronizing or rude statment will be deleted. 
+A: I will try my best to answer questions pertaining to the design. Constructive suggestions and contributions to the design are greatly apperciated. Be polite and have manners in your questions. Patronizing or rude statment will be deleted. 
 
 Q: How accurate is the CFD simulation on your fan duct? Did u consider turbulance of of the 5015? Did u take into account of hotend movement? etc etc.
 
 A: My basic CFD simulation of the particles movement (air) is to provide a validation that the air is directed under the nozzle when designing the fan duct. There are many other parameters that I would not know. It's a fanduct for 3D printer, not a cooling system of a nuclear plant. if you do not feel confident in the design, don't use it. 
 
-Q: Why it is called Tiki
+Q: Why it is called Tiki?
 
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
