@@ -44,9 +44,9 @@ Hotend that has been designed for:
 ## Screw BOM
 - m2x4mm 2pcs : securing the adxl345 to body.
 - m3x8mm 2pcs : securing Orbiter V1.5 to body
-- m3x8mm 2pcs : securing blbracket to body
+- m3x8mm 4pcs : securing BLT & blbracket to body
 - m3x10mm 2 or 4pcs : securing 4010 fan to body
-- m3x14mm 2pcs : securing fanduct to body
+- m3x16mm 2pcs : securing fanduct to body
 - m3x20mm 2pcs :securing hotend and body to carriage
 - m4x20mm + nut 1set: securing 5015 fan to fanduct
 
@@ -88,3 +88,5 @@ A: Tiki was the name of our family dog. He passed away several years ago and we 
 STL files and documentations are free for you to download on this github page. There is NO patreon or membership needed to get access to stl, docs or exclusive support. I have always enjoyed working on Tiki for the Orbiter V1.5 and will continue to do so with no additional agenda. 3d printing is a hobby and any contribution goes to my fun-funds where I use the money on more 3d printer stuff. 
 
 I will try to answer or help when I have the time and energy. This is because I am running other design projects concurrently. There are many fanduct systems out there, and all have it advantages and disadvantages. I try my best to improve Tiki system, and constructive suggestions are greatly appreceiated. But I do not like being patronized nor talk down to.
+
+Credits... this is a tricky subject. While I believe it is important to give credits where its due. I do not want a situation the like of Elon crediting the Benz for inventing the first autowagen. 
