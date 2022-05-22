@@ -36,6 +36,7 @@ Hotend that has been designed for:
     2. Tiki_M Fanduct.stl
     3. Tiki_M BLbracket.stl
     4. Tiki_M cover.stl or Tiki_M cover 0_2mm offset.stl
+- The BL touch offset is X=30 Y=0
 - There are 2 versions of the body. One has the vertical holes in teardrop shape to improve circular print and lesser overhangs.
 - There are 2 versions of the cover. The version with 0.2mm offset is smaller in size. If you are not sure which will fit, print both the covers. 
 - Supports for the body and fanduct are intergrated into the design. The tip of the fanduct is under 60 degree overhang.
