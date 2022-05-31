@@ -3,7 +3,7 @@
 ![Tiki Mono 01](https://user-images.githubusercontent.com/68491566/167160708-03455499-fa1d-441f-9ffe-d1d5f2e42cbf.png)
 
 ## UPDATE: 31 May 2022
-Finding on Tiki Monocoque when I did input shaper calibration using ADXL345 
+Finding on Tiki Monocoque when I did input shaper calibration using ADXL345 https://github.com/thrutheframe/Tiki_mono/blob/main/update220531.md
 
 ## Introduction
 Welcome to Tiki Monocoque github page. 
