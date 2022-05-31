@@ -1,0 +1,2 @@
+Update 31/5/2022
+In the course of the service/upgrade of my Ender 5 with Tiki Monocoque and Klipper firmware, I did the input shaping calibration using ADXL345. The Y movement graph that tells me I can safely use either MZV or EI shaping with an acceleration 3000mm/s/s (which is half of the max acceleration recommended).  
